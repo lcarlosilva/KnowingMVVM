@@ -6,6 +6,6 @@ import org.koin.androidx.viewmodel.dsl.viewModel
 
 fun viewModule() = module {
     viewModel {
-        RickMortyViewModel(repository = get())
+        RickMortyViewModel(useCase = get())
     }
 }

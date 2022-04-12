@@ -1,4 +1,4 @@
-package luiz.com.knowingmvvm.domain.repository
+package luiz.com.knowingmvvm.data.repository
 
 import luiz.com.knowingmvvm.data.response.BaseResponse
 import luiz.com.knowingmvvm.domain.entity.Character
